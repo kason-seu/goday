@@ -1,3 +1,9 @@
 hello, world
 file
 resource
+file
+file
+word
+name
+name
+word
